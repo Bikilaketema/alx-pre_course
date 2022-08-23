@@ -1,2 +1,1 @@
-# alx-pre_course
-This project is for Learning purpose.
+My first readme
